@@ -4,4 +4,4 @@ Longing MCP server with persistent state, isolated runtime operation, and remote
 
 ## Release
 
-Current release: v1.4.5
+Current release: v1.5.0
